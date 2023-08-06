@@ -1,20 +1,5 @@
-.odd {
-    background-color: pink;
-    font-family: "Verdana" "DejaVu Sans", sans-serif;
+.container .text {
+    background-color: yellow; 
+    color: red;
+    font-size: 20px;
 }
-
-#second {
-    color: blue;
-    font-size: 36px;
-}
-
-#third {
-    font-size: 24px;
-}
-
-#fourth {
-    background-color: green;
-    font-size: 24px;
-    font-weight: 700;
-}
-
